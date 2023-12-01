@@ -1,0 +1,9 @@
+The FilmFlix Main Menu options
+
+Please Enter Options 1 to 6:
+1. Print all films
+2. Add a film
+3. Update a film
+4. Delete a film
+5. Select report option
+6. Exit the filmflix App
